@@ -36,7 +36,7 @@ One way to ensure that the spaces of art and social media are safer to navigate 
 ---
 
 ## Challenges We Faced
-As our first large-scale programming project and our first collaborative project in this space, we faced technical problems from a lack of experience and knowledge as incoming freshmen working on a serious project. Using new tools like PyTorch and learning new concepts, such as understanding what a CNN is, pushed us out of our comfort zone. Another often overlooked challenge is that of collaboration—building chemistry and understanding between partners takes time in any setting, and is something we worked on throughout the development of this project. 
+As our first large-scale programming project and our first collaborative project in this space, we faced technical problems from a lack of experience and knowledge as incoming freshmen working on a serious project. Using new tools like PyTorch and learning new concepts, such as understanding what a CNN is, pushed us out of our comfort zone. Another often overlooked challenge is that of collaboration—building chemistry and understanding between partners takes time in any setting, and is something we worked on throughout the development of this project. Lastly a major limitation within our progress and further deployment of our model was the usage of generative artificial intelligence to help write code for our project, which ultimately led to use not fully understanding all aspects of the code we wrote.
 
 ---
 
