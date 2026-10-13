@@ -8,7 +8,7 @@
 ---
 
 ## The Problem
-When looking at the arts, we see lots of hostility towards the rapid evolution and mainstream spread of generative AI. As these models continue to evolve, there appears to be a growing concern about the potential replacement of photography and art as a direct result of the aforementioned systems. Additionally, on a day-to-day basis, it can be scary to navigate the internet and social media and be unsure as to whether or not what you see was created by humans or artificially generated.
+When looking at the arts, we see a wide spread sense of hostility towards the rapid evolution and mainstream spread of generative AI. As these models continue to evolve, there appears to be a growing concern about the potential replacement of photography and art as a direct result of the aforementioned systems. Additionally, on a day-to-day basis, it can be scary to navigate the internet and social media and be unsure as to whether or not what you see was created by humans or artificially generated.
 
 ---
 
